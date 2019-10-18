@@ -1,0 +1,23 @@
+#bg {
+    background-image: url('images/bg.png');
+    min-height: 700px;
+    background-repeat: no-repeat;
+    background-position: 275px 0px; 
+    position: relative;
+    padding: 0;
+    margin: 0;
+}
+
+#hero {
+    background-image: url('images/hero.png');
+    width: 35px;
+    height: 55px;
+    position: absolute;
+}
+
+.newEnemy {
+    background-image: url('images/enemy.png');
+    width: 45px;
+    height: 55px;
+    position: absolute;
+}
